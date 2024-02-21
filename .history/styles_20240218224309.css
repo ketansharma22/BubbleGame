@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: ;
+}
+.main{
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+    background-color: rgb(35, 68, 35);
+}

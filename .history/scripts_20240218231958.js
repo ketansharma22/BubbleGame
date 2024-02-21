@@ -1,0 +1,3 @@
+function generateBubble(){
+    for()
+}
